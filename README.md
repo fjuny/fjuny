@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<!--
 - 🚀 Always building, always curious—my code is fueled by caffeine and curiosity
 - 📚 Currently experimenting with new tech stacks and sharing what I learn along the way
 - 🤝 Open to teaming up on quirky or ambitious projects—let’s make something unexpected happen
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything! If I don't know, I will know something new to learn.
 - 📫 How to reach me: ---@---.---
 - ⚡ Fun fact: My favorite debugging tool is a fresh cup of coffee
-
+!--> 
 
 ---
 
