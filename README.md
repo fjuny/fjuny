@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 &nbsp;Hey there! I'm Jun Kit.
+## 👋 &nbsp;Hey there! I'm Jun Yang.
 
 ---
 
